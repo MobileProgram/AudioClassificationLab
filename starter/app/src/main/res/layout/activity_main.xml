@@ -12,6 +12,7 @@
         android:layout_height="314dp"
         android:gravity="center"
         android:lines="5"
+        android:text="Hello World!"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
